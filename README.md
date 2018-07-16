@@ -1,2 +1,0 @@
-# googleHackz
-Google docs clone
